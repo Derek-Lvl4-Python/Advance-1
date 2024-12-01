@@ -1,0 +1,11 @@
+10
+8439, Derek Macalagay, 12, 14, 13, 45
+1234, John Cyruz, 15, 16, 14, 78
+2345, Gabriel John, 18, 19, 20, 88
+3456, Ricci Rivero, 14, 13, 12, 65
+4567, Kyle Jermyn, 17, 15, 16, 72
+5678, Bryce Yuri, 20, 20, 19, 95
+6789, Eman Patricks, 16, 15, 14, 60
+7890, Charlie Brown, 10, 9, 11, 50
+8901, Diana Black, 14, 13, 16, 68
+9012, Edward Grey, 18, 17, 16, 82
